@@ -1,0 +1,15 @@
+﻿  stdafx.cpp
+  client.cpp
+c:\users\徐超勇\source\repos\client\client\client.cpp(56): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winsock2.h(1830): note: 参见“inet_addr”的声明
+c:\users\徐超勇\source\repos\client\client\client.cpp(138): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winsock2.h(1830): note: 参见“inet_addr”的声明
+c:\users\徐超勇\source\repos\client\client\client.cpp(197): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winsock2.h(1830): note: 参见“inet_addr”的声明
+c:\users\徐超勇\source\repos\client\client\client.cpp(415): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winsock2.h(1848): note: 参见“inet_ntoa”的声明
+c:\users\徐超勇\source\repos\client\client\client.cpp(527): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winsock2.h(1848): note: 参见“inet_ntoa”的声明
+c:\users\徐超勇\source\repos\client\client\client.cpp(235): warning C4715: “send_file_way”: 不是所有的控件路径都返回值
+c:\users\徐超勇\source\repos\client\client\client.cpp(98): warning C4715: “send_total_data”: 不是所有的控件路径都返回值
+  client.vcxproj -> C:\Users\徐超勇\source\repos\client\Debug\client.exe
